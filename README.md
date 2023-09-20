@@ -14,7 +14,7 @@
 
 **About Me!**
 
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 🌱 I'm studying Unity Engine
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [ qnpfr890@gmail.com ]
 
