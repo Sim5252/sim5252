@@ -19,8 +19,6 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sim5252&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sim5252 GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="Sim5252" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sim5252&count_private=true&theme=radical" alt="Sim5252" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sim5252ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sim5252&show_icons=true&theme=radical)
+
 -----
